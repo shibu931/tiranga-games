@@ -115,7 +115,7 @@ section{
 }
 
 .animated-border{
-    border: 3px dotted orangered;
+    border: 3px dashed orangered;
     animation: blinker 300ms ease-in-out infinite;
 }
 
@@ -149,7 +149,7 @@ section{
         var(--clr-1)
     );
     border-radius: inherit;
-    animation: rotation 10s linear infinite;
+    animation: rotation 2s linear infinite;
 }
 
 .banner-border::after{

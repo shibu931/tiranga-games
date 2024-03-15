@@ -60,7 +60,7 @@ export const metadata = {
     siteId: '1467726470533754880',
     creator: '@tirangagame',
     creatorId: '1467726470533754880',
-    images: ['https://tiranga-games.vercel.app/og-img.png'], // Must be an absolute URL
+    images: ['https://tiranga-games.vercel.app/og-img.png'], 
   },
 }
 

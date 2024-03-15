@@ -116,7 +116,7 @@ export default function Home() {
       <section>
         <div className="container">
           <h2 className="mb-10 text-center text-white text-3xl font-semibold">Rewards And Bonuses: </h2>
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 lg:gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <div className="banner-border mx-auto rounded-lg">
               <Image
                 src="/img/bonus1.jpg"
@@ -162,7 +162,7 @@ export default function Home() {
                   className="rounded-lg mx-auto"
                 />
               </div>
-              <div className="m-auto">
+              <div className="p-4 m-auto">
                 <h3 className="text-2xl font-semibold mb-3 text-gray-300">Agent Refer 6000 Member Recharge 3 Times</h3>
                 <h4 className="text-green-400 text-left font-bold text-4xl">Mercedes Benz A Class Limousin</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 55,00,000 - USDT 66881</p>
@@ -176,7 +176,16 @@ export default function Home() {
           </div>
           <div className="banner-border mb-12 rounded-lg">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-              <div className="m-auto">
+            <div className="p-3 lg:hidden">
+                <Image
+                  src="/img/reward2.jpg"
+                  width={460}
+                  height={280}
+                  alt="Mercedes Benz"
+                  className="rounded-lg mx-auto"
+                />
+              </div>
+              <div className="p-4 m-auto">
                 <h3 className="text-2xl font-semibold mb-3 text-gray-300">Agent Refer 2000 Member Recharge 3 Times</h3>
                 <h4 className="text-green-400 text-left font-bold text-4xl">Diamond Jwellery</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 15,00,000 - USDT 41,000</p>
@@ -186,7 +195,7 @@ export default function Home() {
 
                 </div>
               </div>
-              <div className="p-3">
+              <div className="p-3 hidden lg:block">
                 <Image
                   src="/img/reward2.jpg"
                   width={460}
@@ -208,7 +217,7 @@ export default function Home() {
                   className="rounded-lg mx-auto"
                 />
               </div>
-              <div className="m-auto">
+              <div className="p-4 m-auto">
                 <h3 className="text-2xl font-semibold mb-3 text-gray-300">Agent Refer 500 Member Recharge 3 Times</h3>
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold + Diamond Jwellery</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 5,00,000 - USDT 11,400</p>
@@ -222,7 +231,16 @@ export default function Home() {
           </div>
           <div className="banner-border mb-12 rounded-lg">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-              <div className="m-auto">
+            <div className="p-3 lg:hidden">
+                <Image
+                  src="/img/reward4.jpg"
+                  width={460}
+                  height={280}
+                  alt="Mercedes Benz"
+                  className="rounded-lg mx-auto"
+                />
+              </div>
+              <div className="p-4 m-auto">
                 <h3 className="text-2xl font-semibold mb-3 text-gray-300">Agent Refer 200 Member Recharge 3 Times</h3>
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold Bar 999.9</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 2,00,000 - USDT 4568</p>
@@ -232,7 +250,7 @@ export default function Home() {
 
                 </div>
               </div>
-              <div className="p-3">
+              <div className="p-3 hidden lg:block">
                 <Image
                   src="/img/reward4.jpg"
                   width={460}
@@ -254,7 +272,7 @@ export default function Home() {
                   className="rounded-lg mx-auto"
                 />
               </div>
-              <div className="m-auto">
+              <div className="p-4 m-auto">
                 <h3 className="text-2xl font-semibold mb-3 text-gray-300">Agent Refer 150 Member Recharge 3 Times</h3>
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold Necklace 999.9</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 1,00,000 - USDT 1825</p>
