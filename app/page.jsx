@@ -12,8 +12,8 @@ export default function Home() {
             <p className="mb-4">Welcome to the exclusive realm of Tiranga Games – your ultimate destination for unparalleled gaming excitement! Embark on a thrilling journey with over 100 exceptional games, including the likes of Wingo, Aviator, Color Trading, and a multitude of others that promise non-stop entertainment. Tiranga Games is not just an app; it's a legendary online gaming haven where every moment is packed with excitement.</p>
             <p>Enter the world of Tiranga Games and feel the excitement of winning, playing, and earning real money in a way that you have never experienced before. Our platform is made to provide a completely original gaming experience that makes us stand out from the competition. Come along on this journey and witness why Tiranga Games is the preferred choice for people looking for unrivaled enjoyment and a chance to win big.</p>
             <div className="mx-auto mt-10">
-              <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-              <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+              <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+              <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
             </div>
           </div>
@@ -71,8 +71,8 @@ export default function Home() {
               <p className="mb-4">This game appeals to players of all ages by skillfully mixing simplicity and enjoyment. All you need to join in on the fun is a smartphone and an internet connection, which you can use from anywhere at any time.</p>
               <p className="mb-4">Furthermore, earning potential goes beyond game play. By getting your friends and relatives to download the app, you may access more opportunities to make money. The total earning potential is increased with each successful referral, which results in an additional incentive.</p>
               <div className="mx-auto mt-10">
-                <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
               </div>
             </div>
           </div>
@@ -167,8 +167,8 @@ export default function Home() {
                 <h4 className="text-green-400 text-left font-bold text-4xl">Mercedes Benz A Class Limousin</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 55,00,000 - USDT 66881</p>
                 <div className="mx-auto mt-10">
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
                 </div>
               </div>
@@ -190,8 +190,8 @@ export default function Home() {
                 <h4 className="text-green-400 text-left font-bold text-4xl">Diamond Jwellery</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 15,00,000 - USDT 41,000</p>
                 <div className="mx-auto mt-10">
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
                 </div>
               </div>
@@ -222,8 +222,8 @@ export default function Home() {
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold + Diamond Jwellery</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 5,00,000 - USDT 11,400</p>
                 <div className="mx-auto mt-10">
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
                 </div>
               </div>
@@ -245,8 +245,8 @@ export default function Home() {
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold Bar 999.9</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 2,00,000 - USDT 4568</p>
                 <div className="mx-auto mt-10">
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
                 </div>
               </div>
@@ -277,8 +277,8 @@ export default function Home() {
                 <h4 className="text-green-400 text-left font-bold text-4xl">Gold Necklace 999.9</h4>
                 <p className="text-gray-200 font-semibold text-xl">Price 1,00,000 - USDT 1825</p>
                 <div className="mx-auto mt-10">
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-                  <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                  <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-red-500 text-white rounded-md my-auto me-2'>Login</Link>
 
                 </div>
               </div>
