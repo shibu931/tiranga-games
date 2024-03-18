@@ -30,7 +30,7 @@ export default function Home() {
 
       <section>
         <div className="container">
-          <h2 className="mb-8 text-white text-3xl font-medium text-center">Tiranga Game Invitation Code <Link href="78411381114">78411381114</Link> – (Claim ₹100 Bonus Instantly)</h2>
+          <h2 className="mb-8 text-white text-3xl font-medium text-center">Tiranga Game Invitation Code <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976">86627546976</Link> – (Claim ₹100 Bonus Instantly)</h2>
           <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-5 lg:gap-10">
             <div className="border rounded-lg bg-white/10 border-blue-500 shadow-md shadow-blue-200/20 p-5 text-center">
               <p>With the Tiranga Game App, you may start an amazing gaming adventure on a dynamic mobile game platform where your trading of colors can result in actual cash wins.</p>
