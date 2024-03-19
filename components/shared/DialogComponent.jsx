@@ -29,7 +29,7 @@ const DialogComponent = ({ state }) => {
                     </div>
                     <h2 className="text-center text-purple-700 text-3xl font-bold">Register Now<br /> &<br /> Claim ₹100 Bouns Now</h2>
                     <div className="mx-auto text-center mt-10">
-                        <Link href="https://tirangalottery.in/#/register?invitationCode=78411381114" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
+                        <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
 
                     </div>
                 </div>
