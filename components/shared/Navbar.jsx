@@ -15,8 +15,8 @@ const Navbar = () => {
             />
         </Link>
         <nav className='flex justify-center lg:justify-end'>
-            <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-green-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-            <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-blue-500 text-white rounded-md my-auto me-2'>Login</Link>
+            <a target='_blank' href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-green-500 text-white rounded-md my-auto me-2'>Register Now</a>
+            <a target='_blank' href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-blue-500 text-white rounded-md my-auto me-2'>Login</a>
         </nav>
     </header>
   )

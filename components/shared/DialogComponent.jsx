@@ -27,10 +27,9 @@ const DialogComponent = ({ state }) => {
                     <div className="absolute top-3 right-3 cursor-pointer w-[30px] h-[30px] text-xl rounded-full bg-red-500 flex justify-center items-center font-extrabold text-center" onClick={()=>{setIsOpen(false) }}>
                         <span className="text-gray-900">X</span>
                     </div>
-                    <h2 className="text-center text-purple-700 text-3xl font-bold">Register Now<br /> &<br /> Claim ₹100 Bouns Now</h2>
+                    <h2 className="text-center text-purple-700 text-3xl font-bold">Register Now<br /> &<br /> Start Playing Now</h2>
                     <div className="mx-auto text-center mt-10">
-                        <Link href="https://tirangaapk.com/#/register?invitationCode=86627546976" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</Link>
-
+                        <a href="https://tirangaapk.com/#/register?invitationCode=86627546976" target="_blank" className='cta-btn px-6 font-semibold py-2 animated-border bg-orange-500 text-white rounded-md my-auto me-2'>Register Now</a>
                     </div>
                 </div>
             </div>

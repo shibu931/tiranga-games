@@ -3,6 +3,8 @@ import './globals.css'
 import Navbar from '@/components/shared/Navbar'
 import Footer from '@/components/shared/Footer'
 import DialogComponent from '@/components/shared/DialogComponent'
+import Image from 'next/image'
+import Script from 'next/script'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -12,7 +14,7 @@ export const metadata = {
   generator: 'Tiranga Games',
   applicationName: 'Tiranga Games',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Tiranga Games', 'Color Prediction Game', 'Daman Game','91Club',"avitator game",'color trading','bounty games'],
+  keywords: ['Tiranga Games', 'Color Prediction Game', 'Daman Game', '91Club', "avitator game", 'color trading', 'bounty games'],
   authors: [{ name: 'Rahul Kumar' }, { name: 'Rahul Kumar', url: 'https://tiranga-games.vercel.app/' }],
   creator: 'Rahul Kumar',
   publisher: 'Tiranga Game App',
@@ -32,7 +34,7 @@ export const metadata = {
     siteName: 'Tiranga Games',
     images: [
       {
-        url: 'https://tiranga-games.vercel.app/og-img.png', 
+        url: 'https://tiranga-games.vercel.app/og-img.png',
         width: 800,
         height: 600,
       },
@@ -60,19 +62,41 @@ export const metadata = {
     siteId: '1467726470533754880',
     creator: '@tirangagame',
     creatorId: '1467726470533754880',
-    images: ['https://tiranga-games.vercel.app/og-img.png'], 
+    images: ['https://tiranga-games.vercel.app/og-img.png'],
   },
 }
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className+'w-svw h-svh'}>
-      <Navbar/>
+      <head>
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-N62SSS7YJZ"></Script>
+        <Script>
+          {
+            `  window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-N62SSS7YJZ');
+    `
+          }
+        </Script>
+      </head>
+      <body className={inter.className + 'w-svw h-svh relative'}>
+        <Navbar />
         {children}
-        
-      <DialogComponent/>
-      <Footer/>
+        <div className='fixed bottom-5 right-10 animate-bounce '>
+          <a target='_blank' href='https://t.me/teacher_shasha'>
+            <Image
+              src="/img/telegram-logo.png"
+              alt="Teacher Shasha"
+              width={60}
+              height={60}
+            />
+          </a>
+        </div>
+        <DialogComponent />
+        <Footer />
       </body>
     </html>
   )
