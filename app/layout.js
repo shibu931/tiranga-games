@@ -78,17 +78,17 @@ export default function RootLayout({ children }) {
           })(window,document,'scriptScriptdataLayer','GTM-MJ3DDWPZ');`
         }</Script>
         <meta name="google-site-verification" content="96_2mskKLZeyue1Tej37YFmmV3HufLrY0SWcrH5Nt6E" />
-        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-N62SSS7YJZ"></Script>
-        {/* <Script>
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-43KCX0HNNB"></Script>
+        <Script>
           {
             `  window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
-      gtag('config', 'G-N62SSS7YJZ');
+      gtag('config', 'G-43KCX0HNNB');
     `
           }
-        </Script> */}
+        </Script>
       </head>
       <body className={inter.className + 'w-svw h-svh relative'}>
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ3DDWPZ"
