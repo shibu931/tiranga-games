@@ -9,12 +9,12 @@ import Script from 'next/script'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Tiranga Games',
+  title: 'Tiranga Games Win Real Money Best Color Prediction Game',
   description: 'Experience the adrenaline rush of color prediction gaming with Trianga Game! Predict colors in real-time, compete globally, and win big. Secure transactions and seamless gameplay await. Join us for an exhilarating journey to unlock fortunes!',
   generator: 'Tiranga Games',
   applicationName: 'Tiranga Games',
   referrer: 'origin-when-cross-origin',
-  keywords: ['Tiranga Games', 'Color Prediction Game', 'Daman Game', '91Club', "avitator game", 'color trading', 'bounty games'],
+  keywords: ['tiranga games', 'color prediction game', 'daman game', '91Club', "avitator game", 'color trading', 'bounty games'],
   authors: [{ name: 'Rahul Kumar' }, { name: 'Rahul Kumar', url: 'https://tiranga-games.vercel.app/' }],
   creator: 'Rahul Kumar',
   publisher: 'Tiranga Game App',
@@ -91,8 +91,8 @@ export default function RootLayout({ children }) {
         </Script> */}
       </head>
       <body className={inter.className + 'w-svw h-svh relative'}>
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ3DDWPZ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ3DDWPZ"
+          height="0" width="0" style={{display:"none",visibility:"hidden"}}></iframe></noscript>
         <Navbar />
         {children}
         <div className='fixed bottom-5 right-10 animate-bounce '>
