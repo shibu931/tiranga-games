@@ -89,6 +89,7 @@ export default function RootLayout({ children }) {
     `
           }
         </Script>
+        <meta name="msvalidate.01" content="F56164229CC6D727E94F851F4540BD20" />
       </head>
       <body className={inter.className + 'w-svw h-svh relative'}>
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MJ3DDWPZ"
